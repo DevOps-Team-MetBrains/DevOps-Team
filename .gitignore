@@ -1,7 +1,3 @@
-api_secret.txt
-clients_data/
-*.py
-!prog1.py
-*.c
-mcfemy
-lol.txt
+
+logs/
+gitignore-demo/
