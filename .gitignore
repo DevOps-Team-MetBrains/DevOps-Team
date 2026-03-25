@@ -1,1 +1,5 @@
 api_secret.txt
+clients_data/
+*.py
+!prog1.py
+*.c
