@@ -1,3 +1,5 @@
-
 logs/
 gitignore-demo/
+*.txt
+!important.txt
+
